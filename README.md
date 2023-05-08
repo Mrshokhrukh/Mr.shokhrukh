@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshokhrukh&label=Profile%20views&color=0e75b6&style=flat" alt="mrshokhrukh" /> </p>
 
 
-
-
 - 🔭 I’m currently working on **more than 5 projects**
 
 - 🌱 I’m currently learning **Next.js Typescript nodeJs python**
